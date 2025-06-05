@@ -19,5 +19,7 @@ I used the information i already had from the NIST SP 800-30 Rev. 1 to conduct m
 
 ## Vulnerability Assessment Test
 
+I then performed a Vulnerability Assessment Test and came up with the following data.
+
 ![](images/1.png)
 ![](images/2.png)
